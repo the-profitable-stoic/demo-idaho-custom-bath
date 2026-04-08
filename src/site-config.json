@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "Idaho Custom Bath",
+    "phone": "+12087037262",
+    "category": "home remodeler",
+    "city": "Boise",
+    "state": "ID"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Remodel Your Idaho Home",
+      "heroSubline": "Expert remodelers serving Boise and surrounding areas. Crafting beautiful, functional spaces that last.",
+      "aboutTitle": "Idaho's Trusted Home Remodeling Experts",
+      "aboutText": [
+        "Idaho Custom Bath started a decade ago with a simple goal: to provide homeowners in the Boise area with high-quality remodeling services they could rely on. We saw a need for contractors committed to doing the job right, the first time.",
+        "Our approach is simple: listen to our clients, understand their vision, and execute with precision. We believe in open communication, transparent pricing, and a commitment to exceeding expectations on every project.",
+        "We're proud to be a part of the Boise community. We source materials locally whenever possible, support local businesses, and strive to contribute to the beauty and value of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Craftsmen",
+          "description": "Our team consists of skilled professionals with years of experience in all aspects of home remodeling."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only premium materials from trusted suppliers to ensure lasting beauty and durability."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide detailed, upfront estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "We're committed to your complete satisfaction, from initial consultation to project completion."
+        }
+      ],
+      "ctaHeadline": "Transform Your Home Today",
+      "ctaSubline": "Schedule a free consultation and let's discuss your remodeling project."
+    },
+    "services": [
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Transform your bathroom into a luxurious and functional space.",
+        "description": "We handle all aspects of bathroom remodeling, from minor updates to complete overhauls. Whether you're dreaming of a spa-like retreat or a more efficient family bathroom, we have the expertise to bring your vision to life. We start with a detailed consultation to understand your needs and preferences, then develop a customized design plan that maximizes space and functionality. Our skilled craftsmen handle all aspects of the project, including demolition, plumbing, electrical work, tiling, and fixture installation. We use only high-quality materials to ensure lasting beauty and durability, and we pay close attention to every detail to ensure a flawless finish. Boise homes often experience hard water issues, so we can also advise on water softening and filtration solutions to protect your new fixtures and plumbing.",
+        "process": [
+          "Step 1: Initial Consultation & Design",
+          "Step 2: Material Selection & Budgeting",
+          "Step 3: Demolition & Preparation",
+          "Step 4: Installation & Finishing"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Personalized Design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a bathroom remodel typically take?",
+            "answer": "The timeline varies depending on the scope of the project, but most bathroom remodels take between 2-4 weeks."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "It's generally recommended to avoid using the bathroom being remodeled during the construction phase to ensure safety and efficiency."
+          },
+          {
+            "question": "What type of permits are required for bathroom remodeling?",
+            "answer": "Depending on the extent of the remodel, permits may be required for plumbing and electrical work. We handle all permit applications on your behalf."
+          }
+        ]
+      },
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Create the kitchen of your dreams with our expert remodeling services.",
+        "description": "The kitchen is the heart of the home, and we're passionate about creating kitchens that are both beautiful and functional. We offer a full range of kitchen remodeling services, from minor updates to complete renovations. Whether you're looking to update your cabinets and countertops, install new appliances, or completely reconfigure your layout, we have the expertise to bring your vision to life. We understand the unique challenges of remodeling kitchens in older Boise homes, such as dealing with uneven floors and outdated plumbing. We work closely with you to develop a design that meets your needs and budget, and we handle all aspects of the project, from demolition to installation. We can also help you select energy-efficient appliances and lighting to reduce your energy consumption and save money on your utility bills. With Boise's hot summers in mind, we can also optimize your kitchen layout for better ventilation and cooling.",
+        "process": [
+          "Step 1: Design Consultation & Planning",
+          "Step 2: Demolition & Removal",
+          "Step 3: Plumbing & Electrical Updates",
+          "Step 4: Cabinet & Countertop Installation"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Better Organization"
+        ],
+        "faq": [
+          {
+            "question": "What is the average cost of a kitchen remodel?",
+            "answer": "The cost of a kitchen remodel varies depending on the size and scope of the project, as well as the materials and appliances you choose. We provide detailed estimates upfront so you know exactly what to expect."
+          },
+          {
+            "question": "How long will my kitchen be out of commission during the remodel?",
+            "answer": "We understand that being without a kitchen can be inconvenient, so we work efficiently to minimize disruption. Most kitchen remodels take between 4-8 weeks."
+          },
+          {
+            "question": "Can you help me choose the right appliances for my kitchen?",
+            "answer": "Yes, we can help you select appliances that are both energy-efficient and aesthetically pleasing. We have partnerships with leading appliance manufacturers and can offer competitive pricing."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Transform your unfinished basement into a comfortable and functional living space.",
+        "description": "Unlock the hidden potential of your basement with our expert finishing services. We can transform your unfinished basement into a comfortable and functional living space, adding valuable square footage to your home. Whether you're looking to create a home theater, a guest bedroom, a home office, or a playroom for the kids, we have the expertise to bring your vision to life. We understand the unique challenges of basement finishing in Boise, such as dealing with moisture and radon. We use moisture-resistant materials and proper ventilation techniques to ensure a healthy and comfortable living environment. We also offer radon mitigation services to protect your family from harmful gas. We'll help you navigate Boise's building codes and permits to ensure your basement finishing project is compliant and safe.",
+        "process": [
+          "Step 1: Initial Consultation & Design",
+          "Step 2: Framing & Insulation",
+          "Step 3: Electrical & Plumbing",
+          "Step 4: Drywall & Finishing"
+        ],
+        "benefits": [
+          "Increased Living Space",
+          "Increased Home Value",
+          "Improved Comfort",
+          "Personalized Design"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to finish a basement?",
+            "answer": "The cost of finishing a basement varies depending on the size and scope of the project, as well as the materials you choose. We provide detailed estimates upfront so you know exactly what to expect."
+          },
+          {
+            "question": "Do I need a permit to finish my basement?",
+            "answer": "Yes, a permit is required to finish a basement in Boise. We handle all permit applications on your behalf."
+          },
+          {
+            "question": "How long does it take to finish a basement?",
+            "answer": "Most basement finishing projects take between 4-8 weeks, depending on the complexity of the design."
+          }
+        ]
+      },
+      {
+        "slug": "deck-construction",
+        "name": "Deck Construction",
+        "shortDescription": "Extend your living space outdoors with a custom-built deck.",
+        "description": "Enjoy the beautiful Boise weather with a custom-built deck. We design and build decks of all shapes and sizes, using high-quality materials that are designed to withstand the elements. Whether you're looking for a simple platform deck or a multi-level masterpiece, we can create a deck that meets your needs and budget. We understand the challenges of building decks in Boise, such as dealing with the hot summers and cold winters. We use weather-resistant materials and proper construction techniques to ensure your deck will last for years to come. We'll help you choose the right materials for your deck, such as wood, composite, or vinyl. We also offer a variety of deck features, such as railings, stairs, benches, and lighting. Given Boise's wildfire risk, we can also advise on fire-resistant decking materials.",
+        "process": [
+          "Step 1: Design Consultation & Planning",
+          "Step 2: Permitting & Approvals",
+          "Step 3: Framing & Construction",
+          "Step 4: Finishing & Detailing"
+        ],
+        "benefits": [
+          "Increased Outdoor Living Space",
+          "Increased Home Value",
+          "Enhanced Aesthetics",
+          "Improved Entertainment Opportunities"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to build a deck?",
+            "answer": "The cost of building a deck varies depending on the size, materials, and features you choose. We provide detailed estimates upfront so you know exactly what to expect."
+          },
+          {
+            "question": "Do I need a permit to build a deck?",
+            "answer": "Yes, a permit is typically required to build a deck in Boise. We handle all permit applications on your behalf."
+          },
+          {
+            "question": "What type of materials are best for a deck in Boise?",
+            "answer": "The best materials for a deck in Boise are those that are weather-resistant and durable, such as composite decking or treated lumber."
+          }
+        ]
+      },
+      {
+        "slug": "exterior-painting",
+        "name": "Exterior Painting",
+        "shortDescription": "Protect and beautify your home with our professional exterior painting services.",
+        "description": "Give your home a fresh new look with our professional exterior painting services. We use high-quality paints and proven techniques to protect your home from the elements and enhance its curb appeal. We understand the unique challenges of exterior painting in Boise, such as dealing with the hot summers, cold winters, and occasional wildfire smoke. We use paints that are specifically designed to withstand these conditions and protect your home from fading, cracking, and peeling. We also offer a variety of color options to choose from, so you can find the perfect shade to match your style. Before painting, we carefully prepare the surface by cleaning, scraping, and priming. We also repair any damage to the siding or trim. Our experienced painters pay close attention to detail to ensure a flawless finish that will last for years to come. We're familiar with the common siding types in Boise, from older wood siding in the North End to newer vinyl siding in the suburbs.",
+        "process": [
+          "Step 1: Power Washing & Surface Preparation",
+          "Step 2: Priming & Sealing",
+          "Step 3: Painting & Touch-Ups",
+          "Step 4: Final Inspection"
+        ],
+        "benefits": [
+          "Increased Curb Appeal",
+          "Protection from the Elements",
+          "Increased Home Value",
+          "Long-Lasting Finish"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to paint the exterior of my home?",
+            "answer": "The cost of painting the exterior of your home varies depending on the size, condition, and type of siding. We provide detailed estimates upfront so you know exactly what to expect."
+          },
+          {
+            "question": "How long does it take to paint the exterior of a house?",
+            "answer": "Most exterior painting projects take between 3-7 days, depending on the size and complexity of the job."
+          },
+          {
+            "question": "What type of paint is best for the exterior of my home?",
+            "answer": "The best type of paint for the exterior of your home is a high-quality acrylic latex paint that is designed to withstand the elements."
+          }
+        ]
+      },
+      {
+        "slug": "window-replacement",
+        "name": "Window Replacement",
+        "shortDescription": "Improve energy efficiency and enhance your home's aesthetics with new windows.",
+        "description": "Upgrade your home with new, energy-efficient windows. We offer a wide selection of window styles and materials to choose from, and we provide expert installation services. We understand the importance of energy efficiency in Boise, where summers are hot and winters are cold. We offer windows that are designed to reduce heat transfer and save you money on your energy bills. We also offer a variety of window styles to choose from, including double-hung, casement, sliding, and picture windows. We'll help you choose the right windows for your home, based on your needs and budget. Our experienced installers will ensure that your new windows are properly installed and sealed, preventing drafts and leaks. We're familiar with the diverse architectural styles in Boise, from the historic homes in the North End to the modern homes in Harris Ranch, and we can recommend window styles that complement your home's design.",
+        "process": [
+          "Step 1: Measurement & Consultation",
+          "Step 2: Window Selection & Ordering",
+          "Step 3: Removal of Old Windows",
+          "Step 4: Installation of New Windows"
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Reduced Noise Pollution",
+          "Increased Home Value",
+          "Enhanced Aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to replace my windows?",
+            "answer": "The cost of replacing your windows varies depending on the size, style, and material. We provide detailed estimates upfront so you know exactly what to expect."
+          },
+          {
+            "question": "How long does it take to replace windows?",
+            "answer": "Most window replacement projects take between 1-3 days, depending on the number of windows being replaced."
+          },
+          {
+            "question": "What type of windows are the most energy-efficient?",
+            "answer": "The most energy-efficient windows are those with a low-E coating and argon gas fill."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-installation",
+        "name": "Flooring Installation",
+        "shortDescription": "Upgrade your floors with our professional flooring installation services.",
+        "description": "Enhance the beauty and functionality of your home with new flooring. We offer a wide selection of flooring options, including hardwood, laminate, tile, and carpet, and we provide expert installation services. We understand the unique challenges of flooring installation in Boise, such as dealing with uneven subfloors and moisture. We use proper preparation techniques to ensure that your new flooring is properly installed and will last for years to come. We also offer a variety of flooring styles to choose from, so you can find the perfect option to match your style and budget. For Boise homes with pets and kids, we can recommend durable and easy-to-clean flooring options. Our experienced installers pay close attention to detail to ensure a flawless finish. Considering Boise's dry climate, we can also advise on hardwood flooring options that are less prone to cracking and warping.",
+        "process": [
+          "Step 1: Consultation & Material Selection",
+          "Step 2: Subfloor Preparation",
+          "Step 3: Flooring Installation",
+          "Step 4: Finishing & Detailing"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Enhanced Aesthetics",
+          "Improved Comfort",
+          "Easy Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to install new flooring?",
+            "answer": "The cost of installing new flooring varies depending on the type of flooring, the size of the room, and the complexity of the installation. We provide detailed estimates upfront so you know exactly what to expect."
+          },
+          {
+            "question": "How long does it take to install new flooring?",
+            "answer": "Most flooring installation projects take between 1-5 days, depending on the size and complexity of the job."
+          },
+          {
+            "question": "What type of flooring is best for my home?",
+            "answer": "The best type of flooring for your home depends on your lifestyle, budget, and personal preferences. We can help you choose the right flooring for your needs."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Boise",
+        "slug": "boise-id",
+        "state": "ID",
+        "content": "Idaho Custom Bath is proud to offer its premier bathroom remodeling services to the residents of Boise, Idaho. We understand that your bathroom is a personal sanctuary, and we're committed to transforming it into a space that reflects your style and meets your needs. From simple upgrades to complete overhauls, our team of experienced professionals is dedicated to providing exceptional craftsmanship and unparalleled customer service. We use only the highest quality materials and employ innovative design techniques to create stunning and functional bathrooms that you'll love for years to come.\n\nWhether you're dreaming of a luxurious spa-like retreat or a modern, efficient space, Idaho Custom Bath has the expertise to bring your vision to life. We handle every aspect of the remodeling process, from initial design and material selection to demolition, construction, and final finishing touches. Our goal is to make the entire experience as seamless and stress-free as possible, ensuring that you're completely satisfied with the results. We are committed to excellence in every project we undertake.\n\nWe are fully licensed and insured, and we stand behind our work with a comprehensive warranty. Contact Idaho Custom Bath today to schedule a consultation and discover how we can transform your Boise bathroom into the bathroom of your dreams.",
+        "localContext": "Boise, the capital of Idaho, is a vibrant city known for its outdoor recreation, thriving arts scene, and friendly community. We understand the unique character of Boise homes and tailor our services to complement the local aesthetic.",
+        "nearbyAreas": [
+          "Meridian",
+          "Nampa",
+          "Eagle"
+        ]
+      },
+      {
+        "city": "Meridian",
+        "slug": "meridian-id",
+        "state": "ID",
+        "content": "Idaho Custom Bath extends its exceptional bathroom remodeling services to the growing community of Meridian, Idaho. As one of the fastest-growing cities in the state, Meridian is home to families and individuals who appreciate quality and value. We are dedicated to providing Meridian residents with top-notch bathroom remodeling solutions that enhance their homes and lifestyles. Our team of skilled designers and craftsmen works closely with you to create a bathroom that is both beautiful and functional.\n\nFrom updating fixtures and flooring to completely redesigning your bathroom layout, Idaho Custom Bath has the expertise to handle any project, big or small. We understand the importance of creating a space that meets your specific needs and preferences. Whether you're looking for a modern, minimalist design or a more traditional, luxurious feel, we can help you achieve your vision. We believe in transparent communication and fair pricing, ensuring that you're completely informed and confident throughout the entire process.\n\nWe take pride in our commitment to customer satisfaction and strive to exceed your expectations with every project. Contact Idaho Custom Bath today to learn more about our bathroom remodeling services in Meridian and how we can transform your bathroom into a space you'll love.",
+        "localContext": "Meridian is a family-friendly city with a strong sense of community. We understand the needs of Meridian homeowners and strive to create bathrooms that are both stylish and practical for busy families.",
+        "nearbyAreas": [
+          "Boise",
+          "Nampa",
+          "Eagle"
+        ]
+      },
+      {
+        "city": "Nampa",
+        "slug": "nampa-id",
+        "state": "ID",
+        "content": "Idaho Custom Bath is pleased to offer its expert bathroom remodeling services to the residents of Nampa, Idaho. As the largest city in Canyon County, Nampa is a diverse and growing community with a rich history and a bright future. We are committed to providing Nampa homeowners with high-quality bathroom remodeling solutions at competitive prices. Our team of experienced professionals is dedicated to delivering exceptional craftsmanship and outstanding customer service.\n\nWe offer a wide range of bathroom remodeling services, from simple upgrades to complete renovations. Whether you're looking to replace your old bathtub with a modern shower, install new flooring and fixtures, or completely redesign your bathroom layout, Idaho Custom Bath has the expertise to bring your vision to life. We work closely with you to understand your needs and preferences, ensuring that the finished product is exactly what you've been dreaming of. We are committed to using only the best materials and techniques to ensure lasting beauty and functionality.\n\nIdaho Custom Bath is your trusted partner for all your bathroom remodeling needs in Nampa. Contact us today to schedule a consultation and discover how we can transform your bathroom into a space you'll love for years to come.",
+        "localContext": "Nampa is a vibrant city with a strong sense of community and a growing economy. We understand the needs of Nampa homeowners and strive to provide bathroom remodeling solutions that are both stylish and affordable.",
+        "nearbyAreas": [
+          "Caldwell",
+          "Meridian",
+          "Boise"
+        ]
+      },
+      {
+        "city": "Eagle",
+        "slug": "eagle-id",
+        "state": "ID",
+        "content": "Idaho Custom Bath is proud to serve the beautiful community of Eagle, Idaho, with its premium bathroom remodeling services. Eagle is known for its upscale homes, scenic landscapes, and commitment to quality living. We at Idaho Custom Bath share that commitment, offering exceptional design and craftsmanship to transform your bathroom into a luxurious and functional space.\n\nWe understand that Eagle homeowners have discerning tastes and expect the best. That's why we use only the highest quality materials and employ experienced professionals to ensure that every project is completed to the highest standards. Whether you're looking to create a spa-like retreat, a modern and efficient space, or a classic and timeless design, Idaho Custom Bath can bring your vision to life. We handle every aspect of the remodeling process with meticulous attention to detail.\n\nFrom initial consultation to final inspection, we're dedicated to providing a seamless and stress-free experience. Contact Idaho Custom Bath today to schedule a consultation and discover how we can transform your Eagle bathroom into the bathroom of your dreams.",
+        "localContext": "Eagle is an affluent community known for its beautiful homes and scenic surroundings. We understand the high standards of Eagle homeowners and strive to exceed their expectations with every project.",
+        "nearbyAreas": [
+          "Star",
+          "Meridian",
+          "Boise"
+        ]
+      },
+      {
+        "city": "Kuna",
+        "slug": "kuna-id",
+        "state": "ID",
+        "content": "Idaho Custom Bath proudly extends its exceptional bathroom remodeling services to the growing community of Kuna, Idaho. As a rapidly developing city, Kuna is attracting families and individuals seeking a blend of small-town charm and modern convenience. We are dedicated to providing Kuna residents with top-notch bathroom remodeling solutions that enhance their homes and lifestyles. Our team of skilled designers and craftsmen works closely with you to create a bathroom that is both beautiful and functional, reflecting your personal style and meeting your specific needs.\n\nWhether you're looking to update your fixtures, replace outdated tile, or completely redesign your bathroom layout, Idaho Custom Bath has the expertise to handle any project, big or small. We understand the importance of creating a space that is both practical and aesthetically pleasing. We offer a wide range of design options, from contemporary to traditional, and we use only the highest quality materials to ensure lasting beauty and durability. We pride ourselves on transparent communication and fair pricing, ensuring that you're fully informed and comfortable throughout the entire remodeling process.\n\nWe are committed to customer satisfaction and strive to exceed your expectations with every project we undertake. Contact Idaho Custom Bath today to learn more about our bathroom remodeling services in Kuna and how we can transform your bathroom into a space you'll love for years to come.",
+        "localContext": "Kuna is a family-oriented community with a strong sense of neighborliness. We understand the needs of Kuna homeowners and strive to create bathrooms that are both stylish and practical for everyday living.",
+        "nearbyAreas": [
+          "Meridian",
+          "Nampa",
+          "Melba"
+        ]
+      },
+      {
+        "city": "Star",
+        "slug": "star-id",
+        "state": "ID",
+        "content": "Idaho Custom Bath is delighted to offer its premier bathroom remodeling services to the residents of Star, Idaho. Known for its scenic beauty and close-knit community, Star provides a wonderful place to live and raise a family. We understand that your bathroom is a key part of your home, and we are committed to transforming it into a space that reflects your personal style and meets your everyday needs. From simple upgrades to complete renovations, our team of skilled professionals is dedicated to providing exceptional craftsmanship and outstanding customer service.\n\nWe use only the highest quality materials and employ innovative design techniques to create stunning and functional bathrooms that you'll enjoy for years to come. Whether you're dreaming of a spa-like retreat, a modern and efficient space, or a classic and elegant design, Idaho Custom Bath has the expertise to bring your vision to life. We handle every aspect of the remodeling process, from initial consultation and design to demolition, construction, and final finishing touches. Our goal is to make the entire experience as seamless and stress-free as possible, ensuring that you're completely satisfied with the results.\n\nIdaho Custom Bath is fully licensed and insured, and we stand behind our work with a comprehensive warranty. Contact us today to schedule a consultation and discover how we can transform your Star bathroom into the bathroom of your dreams.",
+        "localContext": "Star is a growing community with a strong emphasis on family and quality of life. We understand the values of Star homeowners and strive to create bathrooms that are both beautiful and functional for their families.",
+        "nearbyAreas": [
+          "Eagle",
+          "Middleton",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Middleton",
+        "slug": "middleton-id",
+        "state": "ID",
+        "content": "Idaho Custom Bath proudly serves the residents of Middleton, Idaho, with top-quality bathroom remodeling services. Middleton's charm and growing community make it a fantastic place to call home. We are committed to providing Middleton homeowners with bathroom remodeling solutions that not only enhance their living spaces but also reflect their individual tastes and lifestyles. Our team of experienced professionals is dedicated to delivering exceptional results and ensuring complete customer satisfaction.\n\nWe offer a comprehensive range of bathroom remodeling services, from minor updates to complete transformations. Whether you're looking to replace outdated fixtures, install new flooring, or completely redesign your bathroom layout, Idaho Custom Bath has the expertise to bring your vision to life. We understand the importance of creating a space that is both functional and aesthetically pleasing. We use only the highest quality materials and employ proven techniques to ensure lasting beauty and durability. We are dedicated to transparent communication and fair pricing.\n\nIdaho Custom Bath is your trusted partner for all your bathroom remodeling needs in Middleton. Contact us today to schedule a consultation and discover how we can transform your bathroom into a space that you'll truly love.",
+        "localContext": "Middleton is a close-knit community with a strong sense of pride and a growing population. We understand the needs of Middleton homeowners and strive to provide bathroom remodeling solutions that are both practical and stylish.",
+        "nearbyAreas": [
+          "Star",
+          "Caldwell",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Caldwell",
+        "slug": "caldwell-id",
+        "state": "ID",
+        "content": "Idaho Custom Bath is pleased to extend its expert bathroom remodeling services to the residents of Caldwell, Idaho. As a vibrant city with a rich history and a growing economy, Caldwell offers a unique blend of small-town charm and modern amenities. We are committed to providing Caldwell homeowners with high-quality bathroom remodeling solutions at competitive prices. Our team of experienced professionals is dedicated to delivering exceptional craftsmanship and outstanding customer service.\n\nWe offer a wide range of bathroom remodeling services, from simple upgrades to complete renovations. Whether you're looking to replace your old bathtub with a modern shower, install new flooring and fixtures, or completely redesign your bathroom layout, Idaho Custom Bath has the expertise to bring your vision to life. We work closely with you to understand your needs and preferences, ensuring that the finished product is exactly what you've been dreaming of. We are committed to using only the best materials and techniques to ensure lasting beauty and functionality.\n\nIdaho Custom Bath is your trusted partner for all your bathroom remodeling needs in Caldwell. Contact us today to schedule a consultation and discover how we can transform your bathroom into a space you'll love for years to come.",
+        "localContext": "Caldwell is a city with a strong agricultural heritage and a growing focus on education and innovation. We understand the diverse needs of Caldwell homeowners and strive to provide bathroom remodeling solutions that are both stylish and affordable.",
+        "nearbyAreas": [
+          "Nampa",
+          "Middleton",
+          "Parma"
+        ]
+      },
+      {
+        "city": "Emmett",
+        "slug": "emmett-id",
+        "state": "ID",
+        "content": "Idaho Custom Bath is proud to offer its exceptional bathroom remodeling services to the residents of Emmett, Idaho. Nestled in the heart of Gem County, Emmett is known for its scenic beauty, friendly community, and relaxed lifestyle. We understand that your bathroom is a personal space, and we're dedicated to transforming it into a sanctuary that reflects your style and meets your needs. From simple upgrades to complete overhauls, our team of experienced professionals is committed to providing exceptional craftsmanship and unparalleled customer service.\n\nWhether you're dreaming of a luxurious spa-like retreat, a modern, efficient space, or a charming, rustic design, Idaho Custom Bath has the expertise to bring your vision to life. We handle every aspect of the remodeling process, from initial design and material selection to demolition, construction, and final finishing touches. Our goal is to make the entire experience as seamless and stress-free as possible, ensuring that you're completely satisfied with the results. We use only the highest quality materials and employ innovative design techniques to create stunning and functional bathrooms that you'll love for years to come.\n\nWe are fully licensed and insured, and we stand behind our work with a comprehensive warranty. Contact Idaho Custom Bath today to schedule a consultation and discover how we can transform your Emmett bathroom into the bathroom of your dreams.",
+        "localContext": "Emmett is a charming town known for its agricultural roots and friendly atmosphere. We understand the values of Emmett homeowners and strive to create bathrooms that are both beautiful and functional for their lifestyles.",
+        "nearbyAreas": [
+          "Star",
+          "Middleton",
+          "Horseshoe Bend"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Idaho Custom Bath transformed our outdated kitchen into a modern masterpiece! The team was professional, communicative, and meticulous. We especially appreciated their attention to detail and their willingness to work with us to create a space that truly reflects our style. The project was completed on time and within budget. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Bathroom Remodel",
+        "text": "We hired Idaho Custom Bath to remodel our master bathroom, and we're very happy with the results. The quality of the workmanship is excellent, and the team was always respectful of our home. There were a couple of minor hiccups along the way, but they were quickly resolved. Overall, a great experience.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Basement Finishing",
+        "text": "Idaho Custom Bath did an amazing job finishing our basement. The space is now a functional and comfortable living area that our family loves. The team was professional, reliable, and easy to work with. They helped us navigate the permitting process and ensured that everything was up to code. We highly recommend them!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "We couldn't be happier with our new deck! Idaho Custom Bath designed and built a beautiful and functional outdoor living space that we'll enjoy for years to come. The team was professional, efficient, and detail-oriented. They used high-quality materials and paid close attention to every detail. A fantastic job!",
+        "date": "2025-06-20"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Exterior Painting",
+        "text": "Idaho Custom Bath did a great job painting the exterior of our house. The team was professional, courteous, and efficient. They used high-quality paints and took the time to properly prepare the surface. The finished product looks fantastic, and we've already received compliments from our neighbors.",
+        "date": "2025-07-05"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "We replaced all of the windows in our home with Idaho Custom Bath, and we're very pleased with the results. The new windows are energy-efficient and have significantly reduced our energy bills. The installation team was professional and efficient, and they cleaned up after themselves thoroughly. A great investment!",
+        "date": "2025-08-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Idaho Custom Bath | Boise Remodeler",
+        "description": "Boise's leading home remodeling contractor. Kitchens, bathrooms, basements, decks, and more. Free consultations!"
+      },
+      "about": {
+        "title": "About Idaho Custom Bath",
+        "description": "Learn about Idaho Custom Bath's history, values, and commitment to quality remodeling in the Boise area."
+      },
+      "services": {
+        "title": "Idaho Custom Bath Services",
+        "description": "Explore our comprehensive home remodeling services, including kitchens, bathrooms, basements, decks, painting, and more."
+      },
+      "contact": {
+        "title": "Contact Idaho Custom Bath",
+        "description": "Get in touch with Idaho Custom Bath for a free consultation and estimate on your home remodeling project."
+      },
+      "reviews": {
+        "title": "Idaho Custom Bath Reviews",
+        "description": "Read what our satisfied customers have to say about Idaho Custom Bath's remodeling services in Boise."
+      },
+      "service-areas": {
+        "title": "Idaho Custom Bath Service Areas",
+        "description": "Discover the areas served by Idaho Custom Bath for home remodeling services in Boise and surrounding communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "deck-construction": "/images/service-deck-construction.webp",
+      "exterior-painting": "/images/service-exterior-painting.webp",
+      "window-replacement": "/images/service-window-replacement.webp",
+      "flooring-installation": "/images/service-flooring-installation.webp"
+    },
+    "servicesResponsive": {
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-construction": {
+        "src": "/images/service-deck-construction.webp",
+        "srcset": "/images/service-deck-construction-400w.webp 400w, /images/service-deck-construction-800w.webp 800w, /images/service-deck-construction-1200w.webp 1200w, /images/service-deck-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "exterior-painting": {
+        "src": "/images/service-exterior-painting.webp",
+        "srcset": "/images/service-exterior-painting-400w.webp 400w, /images/service-exterior-painting-800w.webp 800w, /images/service-exterior-painting-1200w.webp 1200w, /images/service-exterior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-replacement": {
+        "src": "/images/service-window-replacement.webp",
+        "srcset": "/images/service-window-replacement-400w.webp 400w, /images/service-window-replacement-800w.webp 800w, /images/service-window-replacement-1200w.webp 1200w, /images/service-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-installation": {
+        "src": "/images/service-flooring-installation.webp",
+        "srcset": "/images/service-flooring-installation-400w.webp 400w, /images/service-flooring-installation-800w.webp 800w, /images/service-flooring-installation-1200w.webp 1200w, /images/service-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
